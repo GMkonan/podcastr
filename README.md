@@ -12,7 +12,7 @@ This app was made during the NLW (Next Level Week) #5,a one week event for Brazi
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/GMkonan/podcastr">
 
   <a href="https://github.com/GMkonan/podcastr/commits/main">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GMkonan/MoveIt?color=blue">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GMkonan/podcastr?color=blue">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
