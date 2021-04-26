@@ -7,11 +7,11 @@ This app was made during the NLW (Next Level Week) #5,a one week event for Brazi
 
 <p align="center">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GMkonan/MoveIt">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GMkonan/podcastr">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GMkonan/MoveIt">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GMkonan/podcastr">
 
-  <a href="https://github.com/GMkonan/MoveIt/commits/master">
+  <a href="https://github.com/GMkonan/podcastr/commits/main">
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GMkonan/MoveIt?color=blue">
   </a>
 
@@ -39,11 +39,13 @@ podcastr is a modern application to play episodes from the podcast "Fala DEV" wi
 - [ReactJS](https://pt-br.reactjs.org)
 - [Typescript](https://typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
+- [Sass](https://sass-lang.com)
 
 ### 📝 Todolist
 - [ ] Deixar responsivo
 - [ ] fazer um PWA com o next pwa
 - [ ] Tema dark
+- [ ] Fazer build e dar deploy pela vercel
 
 ## 🚀 Getting started
 
